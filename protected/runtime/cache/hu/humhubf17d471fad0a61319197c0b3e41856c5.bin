@@ -1,0 +1,22 @@
+a:2:{i:0;s:1011:"
+<a href="/humhub_versions/clean/index.php?r=activity%2Flink&id=2">
+    <li class="activity-entry" data-stream-entry data-action-component="activity.ActivityStreamEntry" data-content-key="3">
+        <div class="media">
+                            <!-- Show user image -->
+                <img class="media-object img-rounded pull-left" data-src="holder.js/32x32" alt="32x32"
+                     style="width: 32px; height: 32px;"
+                     src="/humhub_versions/clean/static/img/default_user.jpg">
+            
+            <!-- Show space image, if you are outside from a space -->
+            
+            <div class="media-body text-break">
+
+                <!-- Show content -->
+                <strong>Md Ashikur Rahman</strong> created a new post "Yay! I&#039;ve just installed HumHub 🆒".                <br>
+
+                <!-- show time -->
+                <span class="time"><span title="May 7, 2019 - 1:14 AM">May 7, 2019</span></span>            </div>
+        </div>
+    </li>
+</a>
+";i:1;N;}
